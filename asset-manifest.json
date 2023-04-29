@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.c50f73b8.css",
-    "main.js": "/static/js/main.aa590451.js",
+    "main.css": "/static/css/main.dbaf8a76.css",
+    "main.js": "/static/js/main.74bfa561.js",
     "static/js/787.7cd949fd.chunk.js": "/static/js/787.7cd949fd.chunk.js",
     "static/media/ymovies11.png": "/static/media/ymovies11.4f869d7e11087839957c.png",
-    "static/media/YuvanShankarVResume.pdf": "/static/media/YuvanShankarVResume.e42ccba196c975994c40.pdf",
-    "static/media/yuvanpdp1.png": "/static/media/yuvanpdp1.35ccba87d744f8b5c99e.png",
+    "static/media/YuvanResumeNew.pdf": "/static/media/YuvanResumeNew.1767905a76a9113cf524.pdf",
+    "static/media/yuvandpf21.png": "/static/media/yuvandpf21.90800df24766a0684cd3.png",
     "static/media/foodorder.jpg": "/static/media/foodorder.a171c27f9a74c5dd25b2.jpg",
     "static/media/colorpicker.jpg": "/static/media/colorpicker.7b62c7239f2995b1168f.jpg",
     "static/media/counter.jpg": "/static/media/counter.5bf2175523afe145de00.jpg",
@@ -16,12 +16,12 @@
     "static/media/image2.png": "/static/media/image2.f249b38224ca41a0b909.png",
     "static/media/main.svg": "/static/media/main.b66a3ccee495069b3199.svg",
     "index.html": "/index.html",
-    "main.c50f73b8.css.map": "/static/css/main.c50f73b8.css.map",
-    "main.aa590451.js.map": "/static/js/main.aa590451.js.map",
+    "main.dbaf8a76.css.map": "/static/css/main.dbaf8a76.css.map",
+    "main.74bfa561.js.map": "/static/js/main.74bfa561.js.map",
     "787.7cd949fd.chunk.js.map": "/static/js/787.7cd949fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c50f73b8.css",
-    "static/js/main.aa590451.js"
+    "static/css/main.dbaf8a76.css",
+    "static/js/main.74bfa561.js"
   ]
 }
